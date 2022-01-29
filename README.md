@@ -1,5 +1,5 @@
 # 百度网盘AI大赛——图像处理挑战赛：手写文字擦除第10名方案
->基于MTRNet++实现图像文字擦除。
+>[百度网盘大赛二，手写文字擦除](https://aistudio.baidu.com/aistudio/competition/detail/129/0)  
 
 ## 项目描述
 >基于MTRNet++实现图像文字擦除。
