@@ -1,0 +1,5 @@
+python >=3.7.4
+paddle >= 2.2.1
+scikit_image
+glob2
+imutils
